@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1536006516 source:d:\nueva carpeta\calculadora\funciones.c
+	"funciones.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1536000293 source:d:\nueva carpeta\calculadora\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1536006808 source:d:\nueva carpeta\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1536006516 d:\nueva carpeta\calculadora\funciones.h
+
+1536000293 d:\nueva carpeta\calculadora\utn.h
+
+1536000294 source:c:\users\alumno\desktop\calculadora\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1536017293 source:c:\users\alumno\desktop\calculadora\funciones.c
+	"funciones.h"
+	"utn.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1536017343 c:\users\alumno\desktop\calculadora\funciones.h
+
+1536000294 c:\users\alumno\desktop\calculadora\utn.h
+
+1536018386 source:c:\users\alumno\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"funciones.h"
+
+1536047390 source:c:\users\jrm62\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"funciones.h"
+
+1536046807 c:\users\jrm62\desktop\calculadora\funciones.h
+
+1536000294 source:c:\users\jrm62\desktop\calculadora\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1536047203 source:c:\users\jrm62\desktop\calculadora\funciones.c
+	"funciones.h"
+	"utn.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1536000294 c:\users\jrm62\desktop\calculadora\utn.h
+

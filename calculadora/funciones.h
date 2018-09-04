@@ -1,0 +1,10 @@
+void menu(float a, float b);
+float primerOperando();
+float segundoOperando();
+float sumatoria(float a, float b);
+float restar(float a, float b);
+float division(float a, float b);
+float multiplicacion(float a, float b);
+float calcularFactorial1(float a);
+int calcularFactorial2(float b);
+void mostrar(float a, float b, float sum, float res, float mul, float div, int  factorial1, int factorial2);

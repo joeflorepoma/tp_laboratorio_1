@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1538415724 source:d:\nueva carpeta\tp2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"empleados.h"
+	"utn.h"
+
+1538396127 source:d:\nueva carpeta\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"empleados.h"
+	"utn.h"
+
+1538415759 source:d:\nueva carpeta\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+	"utn.h"
+
+1538415724 d:\nueva carpeta\tp2\empleados.h
+
+1538394032 d:\nueva carpeta\tp2\utn.h
+
